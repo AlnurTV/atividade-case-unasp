@@ -1,5 +1,3 @@
-# atividade-case-unasp.
-Atividade de Nicolas Magalhães RA:212907
 
 # Atividade CASE - UNASP
 
@@ -7,8 +5,9 @@ Repositório da atividade **Diagnóstico de Ferramental e Confronto de Paradigma
 
 ## Integrantes
 
-- Nicolas Magalhães
-- [Nome do segundo integrante]
+## Integrante
+
+- Nicolas Magalhães - RA: 212907
 
 ## Objetivo
 
