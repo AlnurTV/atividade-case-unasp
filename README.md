@@ -3,8 +3,6 @@
 
 Repositório da atividade **Diagnóstico de Ferramental e Confronto de Paradigmas**, da disciplina **Projeto de Software (G00264.1)** do UNASP-SP.
 
-## Integrantes
-
 ## Integrante
 
 - Nicolas Magalhães - RA: 212907
